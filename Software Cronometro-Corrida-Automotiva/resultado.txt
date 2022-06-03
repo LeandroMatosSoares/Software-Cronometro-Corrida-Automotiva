@@ -1,0 +1,4 @@
+O melhor tempo foi: 94.805Na volta: 2Do piloto: FELIPE MASSA
+O melhor tempo do piloto FELIPE MASSA foi 94.805 na volta 2O melhor tempo do piloto LEWIS HAMILTON foi 93.935 na volta 2O melhor tempo do piloto JENSON BUTTON foi 94.325 na volta 2
+O pior tempo do piloto FELIPE MASSA foi 93.43 na volta 3O pior tempo do piloto LEWIS HAMILTON foi 93.33 na volta 4O pior tempo do piloto JENSON BUTTON foi 93.23 na volta 3
+A média de tempo das voltas do piloto FELIPE MASSA foi 93.792595A média de tempo das voltas do piloto LEWIS HAMILTON foi 93.581604A média de tempo das voltas do piloto JENSON BUTTON foi 93.58861
